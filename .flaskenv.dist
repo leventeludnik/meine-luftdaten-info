@@ -1,2 +1,0 @@
-FLASK_APP=webapp:launch()
-FLASK_ENV=development
