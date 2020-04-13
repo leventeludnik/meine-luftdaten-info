@@ -1,7 +1,7 @@
 # Hungarian translations for PROJECT.
 # Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# Csaba Koller <cskolly@enum.hu>, 2020.
 #
 msgid ""
 msgstr ""
@@ -215,12 +215,12 @@ msgid ""
 msgstr ""
 "Alapesetben ez esp8266. Ha ESP32-t, vagy Raspberri PI-t "
 "vagy Smogomierz szenzort használsz, akkor itt tudod beállítani. "
-"Ebben az esetben is a szenzor azonosító a szenzor nevéből "
+"Ebben az esetben is a szenzorazonosító a szenzor nevéből "
 " csak a számok legyenek."
 
 #: webapp/personal/forms.py:196
 msgid "Recipient's e-mail address"
-msgstr "A fogadó emailcíme"
+msgstr "A levél fogadójának emailcíme"
 
 #: webapp/personal/forms.py:199
 msgid "Please enter e-mail address"
@@ -334,37 +334,33 @@ msgstr "először be kell jelentkezned."
 msgid "Imprint"
 msgstr "Impresszum"
 
-#
-# Translated to Hungarian until this point by @cskolly
-#
-
 #: webapp/templates/imprint.html:14
 msgid "Informations according to § 5 TMG"
-msgstr "Angaben gemäß § 5 TMG"
+msgstr "Információk a TMG (Telemediengesetz) §5 szerint"
 
 #: webapp/templates/imprint.html:21
 msgid "Represented by:"
-msgstr "Vertreten durch:"
+msgstr "Képviseli:"
 
 #: webapp/templates/imprint.html:26
 msgid "Contact:"
-msgstr "Kontakt:"
+msgstr "Kapcsolattartó:"
 
 #: webapp/templates/imprint.html:32
 msgid "based on the concept and software development of Ernesto Ruge:"
-msgstr "basierend auf dem Konzept und der Softwareentwicklung von Ernesto Ruge:"
+msgstr "Ernesto Ruge koncepciója és szoftverfejlesztésén alapulva:"
 
 #: webapp/templates/imprint.html:34
 msgid "Contact: Website of Ernesto Ruge:"
-msgstr "Kontakt: Website von Ernesto Ruge: "
+msgstr "Kapcsolattartó: Ernesto Ruge weboldala: "
 
 #: webapp/templates/index.html:7 webapp/templates/my-sensors.html:9
 msgid "Donate for Luftdaten.info (Hardware, Software) now on Betterplace.org"
-msgstr "Jetzt für Luftdaten.info (Hardware, Software) spenden auf Betterplace.org"
+msgstr "Adományozz a Sensor.Community számára (Hardware, Software) a Betterplace.org-on"
 
 #: webapp/templates/index.html:7 webapp/templates/my-sensors.html:9
 msgid "Donate for<br>Luftdaten.info<br>now on<br><span>Betterplace.org</span>"
-msgstr "Jetzt für<br>Luftdaten.info<br>spenden auf<br><span>Betterplace.org</span>"
+msgstr "Adományozz a <br>Sensor.Community<br>számára a <br><span>Betterplace.org</span>-on"
 
 #: webapp/templates/index.html:9 webapp/templates/register-minimal.html:13
 msgid "Configure air quality sensor yourself"
@@ -1633,16 +1629,3 @@ msgstr "Nutzerdaten gespeichert."
 
 #~ msgid "User data saved."
 #~ msgstr "Nutzerdaten gespeichert."
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
