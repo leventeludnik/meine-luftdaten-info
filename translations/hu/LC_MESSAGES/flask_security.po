@@ -1,4 +1,4 @@
-# Hungarian translation for Flask-Security (Tegező)
+# Hungarian translation for Flask-Security (informal-Tegező)
 # 
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the Flask-Security
@@ -31,7 +31,7 @@ msgstr "Üdvözlet"
 
 #: flask_security/core.py:101
 msgid "Please confirm your email"
-msgstr "Kérlek add meg az emailcímed újra"
+msgstr "Kérlek add meg az email címed újra"
 
 #: flask_security/core.py:102
 msgid "Login instructions"
@@ -52,12 +52,12 @@ msgstr "Jelszó reset útmutató"
 
 #: flask_security/core.py:132
 msgid "You do not have permission to view this resource."
-msgstr "Ennek megtekintéséhez nincs jogosoltságod "
+msgstr "Ennek megtekintéséhez nincs jogosultságod "
 
 #: flask_security/core.py:134
 #, python-format
 msgid "Thank you. Confirmation instructions have been sent to %(email)s."
-msgstr "Köszönjük, a visszaigazoláshoz emailben a %(email)s címre küldtük el az útmutatót."
+msgstr "Köszönjük, az emailcím visszaigazolásához az útmutatót elküldtük a %(email)s címre."
 
 #: flask_security/core.py:138
 msgid "Thank you. Your email has been confirmed."
