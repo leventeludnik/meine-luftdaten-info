@@ -201,7 +201,7 @@ msgstr "A szenzorazonosító csak számokat és betűket (A-tól F-ig) tartalmaz
 
 #: webapp/personal/forms.py:185
 msgid "The numeric part of the sensorname only"
-msgstr "A szenzor nevéből csak a számokat"
+msgstr "A szenzor nevéből csak a számokat add meg"
 
 #: webapp/personal/forms.py:188
 msgid "Sensor Board"
@@ -344,15 +344,15 @@ msgstr "Képviseli:"
 
 #: webapp/templates/imprint.html:26
 msgid "Contact:"
-msgstr "Kapcsolattartó:"
+msgstr "Kapcsolat:"
 
 #: webapp/templates/imprint.html:32
 msgid "based on the concept and software development of Ernesto Ruge:"
-msgstr "Ernesto Ruge koncepciója és szoftverfejlesztésén alapulva:"
+msgstr "Ernesto Ruge koncepciója és szoftverfejlesztése alapján"
 
 #: webapp/templates/imprint.html:34
 msgid "Contact: Website of Ernesto Ruge:"
-msgstr "Kapcsolattartó: Ernesto Ruge weboldala: "
+msgstr "Kapcsolat: Ernesto Ruge weboldala: "
 
 #: webapp/templates/index.html:7 webapp/templates/my-sensors.html:9
 msgid "Donate for Luftdaten.info (Hardware, Software) now on Betterplace.org"
@@ -368,7 +368,7 @@ msgstr "Luftdaten-Sensor selbst konfigurieren"
 
 #: webapp/templates/index.html:17
 msgid "Configure Luftdaten"
-msgstr "Luftdaten konfigurieren"
+msgstr "Sensor.Community konfigutálása"
 
 #: webapp/templates/index.html:18
 msgid ""
