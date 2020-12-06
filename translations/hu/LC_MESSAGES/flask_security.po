@@ -187,7 +187,7 @@ msgid ""
 "You successfully reset your password and you have been logged in "
 "automatically."
 msgstr ""
-"A jleszavadat sikeresen reset-elted és automatikusan be is jelentkeztél. "
+"A jelszavadat sikeresen reset-elted és automatikusan be is jelentkeztél. "
 ""
 
 #: flask_security/core.py:198
